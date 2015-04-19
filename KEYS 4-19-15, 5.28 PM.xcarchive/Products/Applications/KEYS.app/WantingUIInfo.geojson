@@ -1,0 +1,129 @@
+ [
+  [
+   {
+   "title": "房　　型",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "80",
+   "itemHeight":"50",
+   "isEdit": false,
+   "countOfCols":3,
+   "items": [{"id":"1","name":"大床"}, {"id":"2","name":"双床"}],
+   "values":[],
+   "valueNames":[],
+   "valueKey":"iWant1",
+   "itemsKey":"iWant1"
+   },
+   {
+   "title": "是否吸烟",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "80",
+   "itemHeight":"50",
+   "isEdit": false,
+   "countOfCols":3,
+   "items": [{"id":"1","name":"吸烟"}, {"id":"2","name":"不吸烟"}],
+   "values":[],
+   "valueNames":[],
+   "valueKey":"iWant2",
+   "itemsKey":"iWant2"
+   },
+   {
+   "title": "房间位置",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "80",
+   "itemHeight":"50",
+   "isEdit": false,
+   "countOfCols":3,
+   "values":[],
+   "valueNames":[],
+   "valueKey":"iWant3",
+   "itemsKey":"iWant3",
+   "items": [{"id":"1","name":"安静"}, {"id":"2","name":"靠近楼梯"}]
+   },
+   {
+   "title": "枕　　头",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "80",
+   "itemHeight":"50",
+   "isEdit": false,
+   "countOfCols":4,
+   "values":[],
+   "valueNames":[],
+   "valueKey":"iWant4",
+   "itemsKey":"iWant4",
+   "items": [{"id":"1","name":"乳胶"}, {"id":"2","name":"荞麦"}, {"id":"3","name":"七孔"}]
+   },
+   {
+   "title": "矿泉水数量",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "80",
+   "itemHeight":"50",
+   "isEdit": false,
+   "countOfCols":4,
+   "values":[],
+   "valueNames":[],
+   "valueKey":"iWant5",
+   "itemsKey":"iWant5",
+   "items": [{"id":"-1","name":"无要求"},
+             {"id":"2","name":"2瓶"},
+             {"id":"4","name":"4瓶"},
+             {"id":"-2","name":"尽量多"}]
+   }
+   ],
+  [
+   {
+   "title": "需要的服务及设施",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "40",
+   "itemHeight":"40",
+   "countOfCols":3,
+   "values":[],
+   "valueNames":[],
+   "valueKey":"facilities",
+   "itemsKey":"facilities",
+   "isImage":true,
+   "MultipleSelection":true,
+   "isEdit": false,
+   "imageScale":3,
+   "showDetail":true
+   }
+   ],
+  [
+   {
+   "title": "钟爱品牌",
+   "height": "50",
+   "normalHeight": "50",
+   "eidtHeight": "50",
+   "itemHeight":"80",
+   "countOfCols":3,
+   "values":[],
+   "valueNames":[],
+   "valueKey":"brand",
+   "isImage":true,
+   "MultipleSelection":true,
+   "isEdit": false,
+   "itemsKey":"likeBrand",
+   "imageScale":10,
+   }
+   ],
+  [
+   {
+   "title": "其他需求",
+   "height": "60",
+   "normalHeight": "60",
+   "eidtHeight": "50",
+   "itemHeight":"50",
+   "values":[],
+   "valueNames":[],
+   "imageScale":20,
+   "valueKey":"other",
+   "itemsKey":"other",
+   "cellIdentifier":"textFieldCell"
+   }
+   ]
+  ]
