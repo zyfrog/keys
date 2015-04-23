@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "557A5D32689B97F92F156CF4D327CB46F620CD42" : {
+      "DVTSourceControlBranchIdentifierKey" : "feature\/1.1.0",
+      "DVTSourceControlLocationRevisionKey" : "0a89837910ffb43e40d6b8373a17506b1d0783e6",
+      "DVTSourceControlBranchOptionsKey" : 48,
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "557A5D32689B97F92F156CF4D327CB46F620CD42",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "523C5DE7-0AE9-481F-BEF1-B9325ABB3564",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "557A5D32689B97F92F156CF4D327CB46F620CD42" : "KEYS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KEYS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KEYS\/KEYS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/zyfrog@bitbucket.org\/zyfrog\/keys.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "557A5D32689B97F92F156CF4D327CB46F620CD42"
+    }
+  ]
+}
