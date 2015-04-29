@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "F06DC447571636AF4F4DC8C5BD3AC26CC51319E3" : {
+      "DVTSourceControlBranchIdentifierKey" : "master",
+      "DVTSourceControlLocationRevisionKey" : "cd939d0f13e0800b9d658548288f4ca673b6c8d7",
+      "DVTSourceControlBranchOptionsKey" : 48,
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    },
+    "557A5D32689B97F92F156CF4D327CB46F620CD42" : {
+      "DVTSourceControlBranchIdentifierKey" : "feature\/1.1.0",
+      "DVTSourceControlLocationRevisionKey" : "1ee6997617a538c9d0d60376406419af886a1693",
+      "DVTSourceControlBranchOptionsKey" : 48,
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "557A5D32689B97F92F156CF4D327CB46F620CD42",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2598BAE-0864-43C4-B5E0-29F2E099EB75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F06DC447571636AF4F4DC8C5BD3AC26CC51319E3" : "..",
+    "557A5D32689B97F92F156CF4D327CB46F620CD42" : "KEYS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KEYS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KEYS\/KEYS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/zyfrog@bitbucket.org\/zyfrog\/keys.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "557A5D32689B97F92F156CF4D327CB46F620CD42"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/zyfrog@bitbucket.org\/zyfrog\/stranger.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F06DC447571636AF4F4DC8C5BD3AC26CC51319E3"
+    }
+  ]
+}
