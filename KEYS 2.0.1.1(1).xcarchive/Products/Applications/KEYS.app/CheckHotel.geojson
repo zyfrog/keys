@@ -1,0 +1,48 @@
+ [
+  [
+   {
+   "title": "房型：",
+   "height": "117",
+   "countOfCols":3,
+   "itemHeight":38,
+   "items": [{"id":"1","name":"标准"},
+             {"id":"2","name":"高级"},
+             {"id":"3","name":"豪华"},
+             {"id":"0","name":"其他户型", "nameKey":"roomOther", "enabled":true}],
+   "valueKey":"roomType",
+   "extraKey":"roomOther",
+   "extraValue":"",
+   "cellIdentifier":"Cell"
+   }],
+  [
+   {
+   "title": "床型：",
+   "height": "80",
+   "countOfCols":3,
+   "itemHeight":39,
+   "items": [{"id":"1","name":"大床"}, {"id":"2","name":"双床"}],
+   "valueKey":"bedType",
+   "cellIdentifier":"Cell"
+   }
+   ],
+  [
+   {
+   "title": "吸烟房：",
+   "height": "80",
+   "countOfCols":3,
+   "itemHeight":39,
+   "items": [{"id":"1","name":"是"}, {"id":"0","name":"否"}],
+   "valueKey":"isSmoke",
+   "cellIdentifier":"Cell"
+   }
+   ],
+  [
+   {
+   "title": "房号：",
+   "height": "45",
+   "valueKey":"roomNo",
+   "itemHeight":40,
+   "cellIdentifier":"textFieldCell"
+   }
+   ]
+  ]
