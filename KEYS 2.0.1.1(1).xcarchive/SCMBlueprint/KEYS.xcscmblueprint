@@ -2,13 +2,13 @@
   "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
     "557A5D32689B97F92F156CF4D327CB46F620CD42" : {
       "DVTSourceControlBranchIdentifierKey" : "feature\/optimize",
-      "DVTSourceControlLocationRevisionKey" : "0d765d274a3729b62cfd06ad00ba49d71151ae7e",
+      "DVTSourceControlLocationRevisionKey" : "6b5f4a7012fe5220b5c4f9c8d15e718a7970bf10",
       "DVTSourceControlBranchOptionsKey" : 48,
       "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
     }
   },
   "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "557A5D32689B97F92F156CF4D327CB46F620CD42",
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69F70973-27E0-43B3-97B3-2261AD640FEE",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD12E654-357C-43B9-B2ED-DC6B71609AE4",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "557A5D32689B97F92F156CF4D327CB46F620CD42" : "KEYS\/"
   },
